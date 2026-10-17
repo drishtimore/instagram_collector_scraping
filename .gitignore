@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+instagram_chromium_profile/
+data/
+*.db
+*.db-wal
+*.db-shm
